@@ -1468,7 +1468,6 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote er ett fritt dyr. Mulighet for tilleggsdyr.",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -1560,7 +1559,8 @@
         "Mitt valg",
         "Dagskort , 1 dager",
         "Antall kort:",
-        "1"
+        "1",
+        "Pris:"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/5fa1419ab5c1f600038f7bbd/jaktkort-pa-elg-krokstrand-raudfjell-i-rana-kommune"
@@ -2117,6 +2117,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på eldre ku. Mulighet for tilleggsdyr.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -2202,8 +2203,7 @@
         "300,-",
         "6",
         "300,-",
-        "Tøm kalender",
-        "Rabatt for Ungdomskort"
+        "Tøm kalender"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/65689c0a8f798d24b63e3e71/jaktkort-pa-elg-ovre-gjerdalen-i-sorfold"
