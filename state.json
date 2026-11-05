@@ -357,6 +357,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote er et ungdyr av elg og et ungdyr av hjort.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -448,8 +449,7 @@
         "Dagskort, 1 dager",
         "Antall kort:",
         "1",
-        "Pris:",
-        "0 kr"
+        "Pris:"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/59f998bbe4b08a54460ad6fa/jaktkort-pa-elg-og-hjort-brenna-valmas-i-hattfjelldal-kommune"
@@ -570,7 +570,6 @@
         "Pris fra 150 kr",
         "Tilleggskort",
         "Jaktkort på elg uke 45",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -2029,7 +2028,6 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote er en eldre okse. Du kan enten felle eldre okse, fjorokse, kvige eller kalv på kvota.",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
