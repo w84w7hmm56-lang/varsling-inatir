@@ -601,7 +601,6 @@
         "Pris fra 150 kr",
         "Tilleggskort",
         "Jaktkort på elg uke 45",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -867,7 +866,6 @@
         "Pris fra 150 kr",
         "Tilleggskort",
         "Jaktkort på elg uke 45",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -1053,7 +1051,6 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote er et ungdyr. Mulighet for tilleggsdyr.",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -1145,7 +1142,8 @@
         "Dagskort, 1 dager",
         "Antall kort:",
         "1",
-        "Pris:"
+        "Pris:",
+        "0 kr"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/5bdb386f2207e5000331a525/jaktkort-pa-elg-og-hjort-gryteselvasen"
@@ -3558,7 +3556,6 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på eldre ku. Mulighet for tilleggsdyr.",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -3644,7 +3641,8 @@
         "6",
         "300,-",
         "Tøm kalender",
-        "Rabatt for Ungdomskort"
+        "Rabatt for Ungdomskort",
+        "-150 kr Velg"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/65689c0a8f798d24b63e3e71/jaktkort-pa-elg-ovre-gjerdalen-i-sorfold"
