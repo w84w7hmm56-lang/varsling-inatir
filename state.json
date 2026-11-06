@@ -2551,6 +2551,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på elg er en eldre okse (mulig å felle enten eldre okse, fjorokse, kvige eller kalv på kvoten), og kvote på hjort er 1,5 års hind.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -2889,6 +2890,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote er et ungdyr, mulighet for tilleggsdyr",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -2980,8 +2982,7 @@
         "Antall kort:",
         "1",
         "Pris:",
-        "0 kr",
-        "Kjøp"
+        "0 kr"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/61978bb8f2796506d1824795/jaktkort-pa-elg-lifjellet-i-hemnes"
