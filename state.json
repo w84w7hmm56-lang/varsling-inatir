@@ -2960,6 +2960,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på fjorku. Mulighet for tilleggsdyr.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -3049,8 +3050,7 @@
         "Dagskort, 1 dager",
         "Antall kort:",
         "1",
-        "Pris:",
-        "0 kr"
+        "Pris:"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/63611d461452675934182324/jaktkort-pa-elg-nedre-gjerdal-i-sorfold"
@@ -3065,6 +3065,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på en eldre okse. På kvota kan du enten felle eldre okse, fjorokse, kvige eller kalv. Mulighet for tilleggsdyr.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -3536,6 +3537,7 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på en kalv.",
+        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
