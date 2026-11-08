@@ -796,7 +796,6 @@
         "Pris fra 150 kr",
         "Tilleggskort",
         "Jaktkort på elg uke 45",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -3146,7 +3145,6 @@
         "Tilleggskort",
         "Dagskort",
         "Kvote på eldre ku. Mulighet for tilleggsdyr.",
-        "Det er allerede solgt jaktkort på dette tilbudet. Din kvote er derfor satt til 1 dyr. (Se kvoter) Eventuell tilleggskvote tildeles før eller under jakt.",
         "Tilgjengelighet:",
         "Ubegrenset",
         "November 2026",
@@ -3232,7 +3230,8 @@
         "Rabatt for Ungdomskort",
         "-150 kr Velg",
         "Mitt valg",
-        "Dagskort, 1 dager"
+        "Dagskort, 1 dager",
+        "Antall kort:"
       ],
       "title": "Elgjakttilbud",
       "url": "https://www.inatur.no/storviltjakt/65689c0a8f798d24b63e3e71/jaktkort-pa-elg-ovre-gjerdalen-i-sorfold"
